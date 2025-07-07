@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Williams Avendaño</h1>
-<h3 align="center">Full Stack Developer from Lima, Peru 🇵🇪</h3>
+<h1 align="center">Hi , I'm Williams Avendaño</h1>
+<h3 align="center">Full Stack Developer from Lima, Peru</h3>
 
 ### About Me
 - Studied 4 semesters of Software Engineering at **UPC (Universidad Peruana de Ciencias Aplicadas)**  
